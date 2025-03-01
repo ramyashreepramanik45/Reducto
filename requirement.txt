@@ -1,0 +1,9 @@
+ultralytics==8.3.81
+opencv-python==4.7.0
+opencv-contrib-python==4.7.0
+lap==0.5.12
+pandas==2.2.3
+numpy==1.26.4
+matplotlib==3.9.2
+scikit-learn==1.6.1
+imutils==0.5.4
