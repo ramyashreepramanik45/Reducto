@@ -9,7 +9,7 @@ This repository contains code and artifacts for the paper ["Reducto: On-Camera F
 
 ## Getting Started
 
-### Directory Structure
+<!-- ### Directory Structure
 ```bash
 .
 ├── assets 
@@ -50,7 +50,7 @@ This repository contains code and artifacts for the paper ["Reducto: On-Camera F
 ├── utils                           # Additional scripts and utilities
 │
 └── videos                          # Available after downloading and extracting the dataset
-```
+``` -->
 
 ---
 
