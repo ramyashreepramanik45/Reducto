@@ -26,10 +26,10 @@ final_frames = []
 fourcc = cv2.VideoWriter_fourcc(*'mp4v')
 ################################################
 
-INPUT_VIDEO = "videos/1.mp4"
-INPUT_TXT = "mp4_yolo_txt/1.txt "
+INPUT_VIDEO = "Videos/1.mp4"
+INPUT_TXT = "output_txt_files/mp4_yolo_txt/1.txt "
 OUTPUT_PATH = "mp4_normal_res_count"
-OUTPUT_JSON = "results/count_result"
+OUTPUT_JSON = "results/Json_files/count_result"
 
 #############################################################################
 # methods for differences

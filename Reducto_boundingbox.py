@@ -657,7 +657,7 @@ def driver(pathVid, pathYolo, accPassed,  pathForRes, saveSegements,saveFile):
  
 # call driver with the arguments given below
 # video path, yolo label path, acc for thresh, path to result folder, saveSegment
-driver('videos/1.mp4', 'mp4_deepsort_txt/1.txt', 0.9, 'mp4_normal_res_bbox', True ,'results/result')
+driver('Videos/1.mp4', 'output_txt_files/mp4_deepsort_txt/1.txt', 0.9, 'mp4_normal_res_bbox', True ,'results/json_files')
 
 
 

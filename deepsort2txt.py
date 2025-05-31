@@ -5,10 +5,10 @@ from ultralytics import YOLO
 
 
 # Path to store the output text file containing tracking data
-OUTPUT_PATH = "mp4_deepsort_txt/1.txt"
+OUTPUT_PATH = "output_txt_files/mp4_deepsort_txt/1.txt"
 
 # Path to input video file
-VIDEO_PATH = "videos/1.mp4"
+VIDEO_PATH = "Videos/1.mp4"
 
 # Load the YOLO model (pre-trained on the COCO dataset)
 model = YOLO("yolov8n.pt") 

@@ -4,8 +4,8 @@ from ultralytics import YOLO
 import cv2
 import numpy as np
 
-INPUT_VIDEO = "videos/1.mp4"
-OUTPUT_TXT = "mp4_yolo_txt/1.txt "
+INPUT_VIDEO = "Videos/1.mp4"
+OUTPUT_TXT = "output_txt_files/mp4_yolo_txt/1.txt "
 
 # yolov text file generator
 def yolovTextgen(video_name,output_txt_path):
